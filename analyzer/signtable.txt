@@ -1,0 +1,1017 @@
+type: while                   	 character: while               
+type: (                   	 character: (                   
+type: id                   	 character: a3                  
+type: +                   	 character: +                   
+type: int10                   	 character: 15                  
+type: )                   	 character: )                   
+type: >                   	 character: >                   
+type: int16                   	 character: 0xa                 
+type: do                   	 character: do                  
+type: if                   	 character: if                  
+type: id                   	 character: x2                  
+type: =                   	 character: =                   
+type: int8                   	 character: 07                  
+type: then                   	 character: then                
+type: while                   	 character: while               
+type: id                   	 character: y                   
+type: <                   	 character: <                   
+type: id                   	 character: z                   
+type: do                   	 character: do                  
+type: id                   	 character: y                   
+type: =                   	 character: =                   
+type: id                   	 character: x                   
+type: *                   	 character: *                   
+type: id                   	 character: y                   
+type: /                   	 character: /                   
+type: id                   	 character: z                   
+type: ;                   	 character: ;                   
+type: id                   	 character: c                   
+type: =                   	 character: =                   
+type: id                   	 character: b                   
+type: *                   	 character: *                   
+type: id                   	 character: c                   
+type: +                   	 character: +                   
+type: id                   	 character: d                   
+type: ;                   	 character: ;                   
+type: else                   	 character: else                
+type: id                   	 character: y                   
+type: =                   	 character: =                   
+type: id                   	 character: z                   
+type: /                   	 character: /                   
+type: id                   	 character: x                   
+type: /                   	 character: /                   
+type: id                   	 character: y                   
+type: ;                   	 character: ;                   
+type: id                   	 character: c                   
+type: =                   	 character: =                   
+type: id                   	 character: b                   
+type: *                   	 character: *                   
+type: id                   	 character: c                   
+type: +                   	 character: +                   
+type: id                   	 character: d                   
+type: ;                   	 character: ;                   
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type: 4                   	 character:                     
+type: qt                   	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type: b                   	 character:                     
+type:                    	 character:                     
+type: ÿÿÿÿÿÿ                   	 character:                     
+type:                    	 character:                     
+type:                    	 character: Òh€Fqt              
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                    
+type:                    	 character:                     
+type:                    	 character:                    
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type: j                   	 character:                     
+type: ÿÿÿÿÿÿÿÿ                   	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character: ÿÿ                  
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type: ´                    	 character:                     
+type:                    	 character:                     
+type: P¡                   	 character:                     
+type:                    	 character:                     
+type: ¡                   	 character:                     
+type:                    	 character:                     
+type: ,£                   	 character:                     
+type:                    	 character:                     
+type: H£                   	 character:                     
+type:                    	 character:                     
+type: À£                   	 character:                     
+type:                    	 character:                     
+type:  ¤                   	 character:                     
+type:                    	 character:                     
+type: ¨¤                   	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type:                    	 character:                     
+type: Ä©                   	 character:                     
+type:                    	 character:                     
+type: xª                   	 character:                     
+type:                    	 character:                     
+type:  «                   	 character:                     
+type:                    	 character:                     
+type: Ô«                   	 character:                     
+type:                    	 character:                     
+type: ¨¬                   	 character:                     
+type:                    	 character:                     
+type: ­                   	 character:                     
+type:                    	 character:                     
+type: 0®                   	 character:                     
+type:                    	 character:                     
+type: Ø®                   	 character:                     
+type:                    	 character:                     
+type: \¯                   	 character:                     
+type:                    	 character:                     
+type: ,°                   	 character:                     
+type:                    	 character:                     
+type: Ì°                   	 character:                     
+type:                    	 character:                     
+type: t±                   	 character:                     
+type:                    	 character:                     
+type: ²                   	 character:                     
+type:                    	 character:                     
+type: x³                   	 character:                     
+type:                    	 character:                     
+type: l´                   	 character:                     
+type:                    	 character:                     
+type: µ                   	 character:                     
+type:                    	 character:                     
+type: Øµ                   	 character:                     
+type:                    	 character:                     
+type: ¼¶                   	 character:                     
+type:                    	 character:                     
+type: @·                   	 character:                     
+type:                    	 character:                     
+type: ä·                   	 character:                     
+type:                    	 character:                     
+type:  ¸                   	 character:                     
+type:                    	 character:                     
+type: x¹                   	 character:                     
+type:                    	 character:                     
+type: Pº                   	 character:                     
+type:                    	 character:                     
+type: @»                   	 character:                     
+type:                    	 character:                     
+type: (¼                   	 character:                     
+type:                    	 character:                     
+type: Ì¼                   	 character:                     
+type:                    	 character:                     
+type: œ½                   	 character:                     
+type:                    	 character:                     
+type: <¾                   	 character:                     
+type:                    	 character:                     
+type: ä¾                   	 character:                     
+type:                    	 character:                     
+type: ¨¿                   	 character:                     
+type:                    	 character:                     
+type: `À                   	 character:                     
+type:                    	 character:                     
+type:  Á                   	 character:                     
+type:                    	 character:                     
+type: °Á                   	 character:                     
+type:                    	 character:                     
+type: ìÁ                   	 character:                     
+type:                    	 character:                     
+type: PÂ                   	 character:                     
+type:                    	 character:                     
+type: ´Â                   	 character:                     
+type:                    	 character:                     
+type: Ã                   	 character:                     
+type:                    	 character:                     
+type: |Ã                   	 character:                     
+type:                    	 character:                     
+type: ŞÃ                   	 character:                     
+type:                    	 character:                     
+type: 2Ä                   	 character:                     
+type:                    	 character:                     
+type: |Ä                   	 character:                     
+type:                    	 character:                     
+type: ÄÄ                   	 character:                     
+type:                    	 character:                     
+type: öÄ                   	 character:                     
+type:                    	 character:                     
+type: "Å                   	 character: <¥                 
+type:                    	 character:                     
+type: NÅ                   	 character: Ø¥                 
+type:                    	 character:                     
+type: zÅ                   	 character: ¦                 
+type:                    	 character:                     
+type: ¬Å                   	 character: ´§                 
+type:                    	 character:                     
+type: äÅ                   	 character: Ğ§                 
+type:                    	 character:                     
+type: Æ                   	 character: H¨                 
+type:                    	 character:                     
+type: LÆ                   	 character: (©                 
+type:                    	 character:                     
+type:                    	 character: 0©                 
+type:                    	 character:                     
+type: ÌÆ                   	 character:                     
+type:                    	 character:                    
+type: ¨Ç                   	 character: Dª                 
+type:                    	 character:                    
+type: „È                   	 character: «                 
+type:                    	 character:                    
+type: XÉ                   	 character: Ä«                 
+type:                    	 character:                    
+type: <Ê                   	 character: x¬                 
+type:                    	 character:                    
+type: $Ë                   	 character: d­                 
+type:                    	 character:                    
+type: tË                   	 character: ®                 
+type:                    	 character:                    
+type:  å©h€¾´h€³´h+Àh°sÀh€8ÀhĞàµh=¶h€ÌµhĞ8¶hğ5¶h                   	 character: ¬®                 
+type: ´h+Àh°sÀh€8ÀhĞàµh=¶h€ÌµhĞ8¶hğ5¶h                   	 character:                    
+type: €8ÀhĞàµh=¶h€ÌµhĞ8¶hğ5¶h                   	 character: 8¯                 
+type: ¶h€ÌµhĞ8¶hğ5¶h                   	 character:                    
+type: ğ5¶h                   	 character: ü¯                 
+type: ´hğ‹´h0´h°Àh°Àh°Àh Àh°ÀhÀ9Àh°Àhp†Àhpù®hP÷®hú®hÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h                   	 character:                    
+type: °Àh°Àh°Àh Àh°ÀhÀ9Àh°Àhp†Àhpù®hP÷®hú®hÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h                   	 character: °°                 
+type: Àh Àh°ÀhÀ9Àh°Àhp†Àhpù®hP÷®hú®hÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h                   	 character:                    
+type: À9Àh°Àhp†Àhpù®hP÷®hú®hÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h                   	 character:                     
+type: Àhpù®hP÷®hú®hÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h                   	 character:                    
+type: ú®hÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h                   	 character: T²                 
+type: µhĞ¼¬h¤ÔÒhÀ¿¬h½¬h                   	 character:                    
+type: À¿¬h½¬h                   	 character: H³                 
+type: ¬h0Ê¾hÀÀh`Àhà4¯hà4µh                   	 character:                    
+type: `Àhà4¯hà4µh                   	 character: ´                 
+type: µh                   	 character:                    
+type: @(ÇaĞ)ÇaPÇaàÇa ¬Ãa                   	 character: à´                 
+type: ÇaàÇa ¬Ãa                   	 character:                    
+type:                    	 character: ¨µ                 
+type: ËaùÆa°ÇaóÆaÀ%Äa`XÄaËa                   	 character:                    
+type: óÆaÀ%Äa`XÄaËa                   	 character: „¶                 
+type: ÄaËa                   	 character:                    
+type: àü                   	 character: (·                 
+type: ÷                   	 character:                    
+type: Ş÷                   	 character: Ğ·                 
+type: ÷                   	 character:                    
+type: ¬U €×÷                   	 character: „¸                 
+type: ÷                   	 character:                    
+type: Ğû                   	 character: L¹                 
+type: â                   	 character:                    
+type:  ö                   	 character: $º                 
+type: Pğ°ç ÷ì0Ò                   	 character:                    
+type:  ÷ì0Ò                   	 character: »                 
+type:                    	 character:                    
+type: L2!@ÚPå°ÑàĞ                   	 character: ¼                 
+type: °ÑàĞ                   	 character:                    
+type:                    	 character: ¬¼                 
+type: 0Ø Ñ€å                   	 character:                    
+type: €å                   	 character: l½                 
+type: å                   	 character:                    
+type: å                   	 character: ¾                 
+type: å                   	 character:                    
+type: àFæ                   	 character: ¼¾                 
+type: å                   	 character:                    
+type: æ                   	 character: l¿                 
+type: å                   	 character:                    
+type: å                   	 character: @À                 
+type: å                   	 character:                    
+type: på                   	 character: øÀ                 
+type: æ                   	 character:                    
+type:  å                   	 character: ”Á                 
+type: å                   	 character:                    
+type: @Ìú                   	 character:                     
+type: ı                   	 character:                    
+type: ı                   	 character: <Â                 
+type: ğå                   	 character:                    
+type: På                   	 character:  Â                 
+type: å                   	 character:                    
+type: Àå                   	 character: Ã                 
+type: å                   	 character:                    
+type: ı                   	 character: fÃ                 
+type: å                   	 character:                    
+type:                    	 character: ĞÃ                 
+type:                    	 character:                    
+type:  s´nàHµn v´nÀw´n                   	 character:                     
+type: ´nÀw´n                   	 character:                    
+type: € ÉwğîÇwpIuuğIuu                   	 character: lÄ                 
+type: uuğIuu                   	 character:                    
+type: õzu`…uu@MuuàMuu                   	 character: ºÄ                 
+type: uuàMuu                   	 character:                    
+type: àNuu`7yu`Ruu0êzu°Éw@VuupëÇw°WuupXuupYuuĞZuuPduuduueuu€euu                   	 character: îÄ                 
+type: uu0êzu°Éw@VuupëÇw°WuupXuupYuuĞZuuPduuduueuu€euu                   	 character:                    
+type: @VuupëÇw°WuupXuupYuuĞZuuPduuduueuu€euu                   	 character: Å                 
+type: uupXuupYuuĞZuuPduuduueuu€euu                   	 character:                    
+type: ĞZuuPduuduueuu€euu                   	 character: DÅ                 
+type: uueuu€euu                   	 character:                    
+type:                    	 character: pÅ                 
+type: uu@huu                   	 character:                    
+type:  jkt°WitŒ`qt rktôSqt°rkt}otœ[qt°^lt0_ltĞ\it\qt€‘jtÀalt                   	 character: ¢Å                 
+type: qt rktôSqt°rkt}otœ[qt°^lt0_ltĞ\it\qt€‘jtÀalt                   	 character:                    
+type: °rkt}otœ[qt°^lt0_ltĞ\it\qt€‘jtÀalt                   	 character: ÚÅ                 
+type: qt°^lt0_ltĞ\it\qt€‘jtÀalt                   	 character:                    
+type: Ğ\it\qt€‘jtÀalt                   	 character: Æ                 
+type: jtÀalt                   	 character:                    
+type: Pklt€kkt                   	 character: BÆ                 
+type: ltğ³kt€ÿht                   	 character:                    
+type:                    	 character: vÆ                 
+type: mtà:mtp5mt€ˆmtPpjt€–mtP‚mtğ·kt úht`úht`ûht üht`üht€¹kt ühtrjt‰nt                   	 character:                    
+type: €ˆmtPpjt€–mtP‚mtğ·kt úht`úht`ûht üht`üht€¹kt ühtrjt‰nt                   	 character: ¼Æ                 
+type: mtP‚mtğ·kt úht`úht`ûht üht`üht€¹kt ühtrjt‰nt                   	 character:                    
+type:  úht`úht`ûht üht`üht€¹kt ühtrjt‰nt                   	 character: xÇ                 
+type: ht üht`üht€¹kt ühtrjt‰nt                   	 character:                    
+type: €¹kt ühtrjt‰nt                   	 character: hÈ                 
+type: jt‰nt                   	 character:                    
+type: aktàoktdnt€’nt@“nt                   	 character: É                 
+type: nt€’nt@“nt                   	 character:                    
+type:                    	 character: Ê                 
+type: nt`—nt@#ità"it%it¤mt@[mt` nt                   	 character:                    
+type: à"it%it¤mt@[mt` nt                   	 character: ôÊ                 
+type: mt@[mt` nt                   	 character:                    
+type:                    	 character: lË                 
+type:                    	 character:                    
+type: ğUêo×êo7ëo0:ëo NëoğQëopìo Wío€Œíoğ´îo ¼îoğÉîoÊîo`ÛîoÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo                   	 character:                     
+type: ëo0:ëo NëoğQëopìo Wío€Œíoğ´îo ¼îoğÉîoÊîo`ÛîoÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo                   	 character: ´h€³´h+Àh°sÀh€8ÀhĞàµh=¶h€ÌµhĞ8¶hğ5¶h
+type: ğQëopìo Wío€Œíoğ´îo ¼îoğÉîoÊîo`ÛîoÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo                   	 character: °sÀh€8ÀhĞàµh=¶h€ÌµhĞ8¶hğ5¶h
+type: ío€Œíoğ´îo ¼îoğÉîoÊîo`ÛîoÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo                   	 character: µh=¶h€ÌµhĞ8¶hğ5¶h  
+type:  ¼îoğÉîoÊîo`ÛîoÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo                   	 character: Ğ8¶hğ5¶h            
+type: îo`ÛîoÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo                   	 character: ¾h ™´hğ‹´h0´h°Àh°Àh°Àh Àh°ÀhÀ9Àh°Àhp†Àhpù®hP÷®hú®hÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h
+type: ğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo                   	 character: 0´h°Àh°Àh°Àh Àh°ÀhÀ9Àh°Àhp†Àhpù®hP÷®hú®hÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h
+type: ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo                   	 character: Àh°Àh Àh°ÀhÀ9Àh°Àhp†Àhpù®hP÷®hú®hÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h
+type: „ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo                   	 character: °ÀhÀ9Àh°Àhp†Àhpù®hP÷®hú®hÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h
+type: ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo                   	 character: Àhp†Àhpù®hP÷®hú®hÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h
+type: ”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo                   	 character: P÷®hú®hÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h
+type: ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo                   	 character: ÁhğµhĞ¼¬h¤ÔÒhÀ¿¬h½¬h
+type: À›ïoÀïo0¢ïo«ïo                   	 character: ¤ÔÒhÀ¿¬h½¬h        
+type: ïo«ïo                   	 character: ¬h                  
+type: •                   	 character: ÀÀh`Àhà4¯hà4µh    
+type: rayData10deallocateEPS_jj                   	 character: ¯hà4µh              
+type: eallocateEPS_jj                   	 character: @Ça@(ÇaĞ)ÇaPÇaàÇa ¬Ãa
+type: PS_jj                   	 character: ÇaPÇaàÇa ¬Ãa      
+type: N11QFileDevice5closeEv                   	 character:  ¬Ãa                
+type: vice5closeEv                   	 character: Ëa@'ËaùÆa°ÇaóÆaÀ%Äa`XÄaËa
+type: Ev                   	 character: °ÇaóÆaÀ%Äa`XÄaËa
+type: 1QFileDevice5flushEv                   	 character: Äa`XÄaËa          
+type: ce5flushEv                   	 character:                     
+type:                    	 character: ğÃ÷               
+type: MetaObject10ConnectionD1Ev                   	 character: àŞ÷                 
+type: 10ConnectionD1Ev                   	 character: ÷                   
+type: onD1Ev                   	 character: À÷                 
+type: _ZN11QMetaObject18connectSlotsByNameEP7QObject                   	 character: ÷                   
+type: Object18connectSlotsByNameEP7QObject                   	 character: ÏĞû             
+type: nnectSlotsByNameEP7QObject                   	 character: â                   
+type: ByNameEP7QObject                   	 character: €3ò                 
+type: Object                   	 character: ö                   
+type: À_ZN11QMetaObject8activateEP7QObjectPKS_iPPv                   	 character: °ç ÷ì0Ò    
+type: taObject8activateEP7QObjectPKS_iPPv                   	 character: 0Ò              
+type: ctivateEP7QObjectPKS_iPPv                   	 character: ÀçL2!@ÚPå°ÑàĞ
+type: QObjectPKS_iPPv                   	 character: På°ÑàĞ      
+type: _iPPv                   	 character: àĞ                
+type: _ZN11QTextStream7readAllEv                   	 character: Ğß0Ø Ñ€å   
+type: Stream7readAllEv                   	 character:  Ñ€å             
+type: dAllEv                   	 character: å                   
+type: ì_ZN11QTextStreamC1EP9QIODevice                   	 character: p¿æ                 
+type: xtStreamC1EP9QIODevice                   	 character: å                   
+type: EP9QIODevice                   	 character:  å                 
+type: ce                   	 character: å                   
+type: N11QTextStreamD1Ev                   	 character: @wå                 
+type: reamD1Ev                   	 character: å                   
+type: ú_ZN11QTextStreamlsEPKc                   	 character: P æ                 
+type: xtStreamlsEPKc                   	 character: æ                   
+type: EPKc                   	 character: pnæ                 
+type: _ZN11QTextStreamlsERK7QString                   	 character: æ                   
+type: StreamlsERK7QString                   	 character: >æ                 
+type: K7QString                   	 character: å                   
+type: «_ZN16QCoreApplication9translateEPKcS1_S1_i                   	 character: àææ                 
+type: reApplication9translateEPKcS1_S1_i                   	 character: ı                   
+type: ion9translateEPKcS1_S1_i                   	 character: `?ı                 
+type: ateEPKcS1_S1_i                   	 character: 0ëğå           
+type: S1_i                   	 character: `aå                 
+type: _ZN5QFile4openE6QFlagsIN9QIODevice12OpenModeFlagEE                   	 character: å                   
+type: openE6QFlagsIN9QIODevice12OpenModeFlagEE                   	 character: Ğå                 
+type: gsIN9QIODevice12OpenModeFlagEE                   	 character: æ                   
+type: vice12OpenModeFlagEE                   	 character:  "ı                 
+type: ModeFlagEE                   	 character: å                   
+type:                    	 character: ğ!å                 
+type: QFileC1ERK7QString                   	 character: å                   
+type: 7QString                   	 character: 0Kµn s´nàHµn v´nÀw´n
+type:                    	 character: µn v´nÀw´n          
+type: ileD1Ev                   	 character:                     
+type: _ZN7QObject10childEventEP11QChildEvent                   	 character: ÇwpIuuğIuu          
+type: t10childEventEP11QChildEvent                   	 character:                     
+type: entEP11QChildEvent                   	 character: uu@MuuàMuu          
+type: ildEvent                   	 character:                     
+type:                    	 character: yu`Ruu0êzu°Éw@VuupëÇw°WuupXuupYuuĞZuuPduuduueuu€euu
+type: bject10timerEventEP11QTimerEvent                   	 character: °Éw@VuupëÇw°WuupXuupYuuĞZuuPduuduueuu€euu
+type: erEventEP11QTimerEvent                   	 character: Çw°WuupXuupYuuĞZuuPduuduueuu€euu
+type: 1QTimerEvent                   	 character: pYuuĞZuuPduuduueuu€euu
+type: nt                   	 character: uuduueuu€euu      
+type: N7QObject11customEventEP6QEvent                   	 character: €euu                
+type: 1customEventEP6QEvent                   	 character: uu guu@huu          
+type: ntEP6QEvent                   	 character:                     
+type: t                   	 character: itŒ`qt rktôSqt°rkt}otœ[qt°^lt0_ltĞ\it\qt€‘jtÀalt
+type: bject11eventFilterEPS_P6QEvent                   	 character: ôSqt°rkt}otœ[qt°^lt0_ltĞ\it\qt€‘jtÀalt
+type: ntFilterEPS_P6QEvent                   	 character: otœ[qt°^lt0_ltĞ\it\qt€‘jtÀalt
+type: S_P6QEvent                   	 character: 0_ltĞ\it\qt€‘jtÀalt
+type:                    	 character: qt€‘jtÀalt          
+type: bject13connectNotifyERK11QMetaMethod                   	 character:                     
+type: nectNotifyERK11QMetaMethod                   	 character: kt                  
+type: ERK11QMetaMethod                   	 character: €ÿht                
+type: Method                   	 character: ltP‚mtà:mtp5mt€ˆmtPpjt€–mtP‚mtğ·kt úht`úht`ûht üht`üht€¹kt ühtrjt‰nt
+type: ã
+_ZN7QObject13setObjectNameERK7QString                   	 character: p5mt€ˆmtPpjt€–mtP‚mtğ·kt úht`úht`ûht üht`üht€¹kt ühtrjt‰nt
+type: ect13setObjectNameERK7QString                   	 character: jt€–mtP‚mtğ·kt úht`úht`ûht üht`üht€¹kt ühtrjt‰nt
+type: jectNameERK7QString                   	 character: ğ·kt úht`úht`ûht üht`üht€¹kt ühtrjt‰nt
+type: K7QString                   	 character: ht`ûht üht`üht€¹kt ühtrjt‰nt
+type: ç
+_ZN7QObject16disconnectNotifyERK11QMetaMethod                   	 character: `üht€¹kt ühtrjt‰nt
+type: ect16disconnectNotifyERK11QMetaMethod                   	 character: htrjt‰nt          
+type: nnectNotifyERK11QMetaMethod                   	 character:                     
+type: yERK11QMetaMethod                   	 character: ktdnt€’nt@“nt      
+type: aMethod                   	 character: @“nt                
+type: _ZN7QObject7connectEPKS_PKcS1_S3_N2Qt14ConnectionTypeE                   	 character: kt”nt`—nt@#ità"it%it¤mt@[mt` nt
+type: t7connectEPKS_PKcS1_S3_N2Qt14ConnectionTypeE                   	 character: @#ità"it%it¤mt@[mt` nt
+type: PKS_PKcS1_S3_N2Qt14ConnectionTypeE                   	 character: it¤mt@[mt` nt      
+type: S3_N2Qt14ConnectionTypeE                   	 character: ` nt                
+type: onnectionTypeE                   	 character: Õu                  
+type: ypeE                   	 character: @TêoğUêo×êo7ëo0:ëo NëoğQëopìo Wío€Œíoğ´îo ¼îoğÉîoÊîo`ÛîoÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo
+type: _ZN7QString16fromAscii_helperEPKci                   	 character: êo7ëo0:ëo NëoğQëopìo Wío€Œíoğ´îo ¼îoğÉîoÊîo`ÛîoÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo
+type: g16fromAscii_helperEPKci                   	 character:  NëoğQëopìo Wío€Œíoğ´îo ¼îoğÉîoÊîo`ÛîoÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo
+type: ii_helperEPKci                   	 character: ìo Wío€Œíoğ´îo ¼îoğÉîoÊîo`ÛîoÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo
+type: PKci                   	 character: ğ´îo ¼îoğÉîoÊîo`ÛîoÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo
+type: _ZN7QString18toLocal8Bit_helperEPK5QChari                   	 character: îoÊîo`ÛîoÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo
+type: g18toLocal8Bit_helperEPK5QChari                   	 character: ÀÜîoğşîoÀïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo
+type: 8Bit_helperEPK5QChari                   	 character: ïoP
+ïo°ñoÜño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo
+type: rEPK5QChari                   	 character: Üño„ño°ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo
+type: i                   	 character: ño¤ñoŒño¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo
+type: tring20fromLocal8Bit_helperEPKci                   	 character: ¤ño”%ñoà˜ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo
+type: mLocal8Bit_helperEPKci                   	 character: ïo™ïo@™ïo€™ïoÀ›ïoÀïo0¢ïo«ïo
+type: _helperEPKci                   	 character: €™ïoÀ›ïoÀïo0¢ïo«ïo
+type: ci                   	 character: ïo0¢ïo«ïo          
+type: N8QVariantD1Ev                   	 character:                     
+type: D1Ev                   	 character: 0QArrayData10deallocateEPS_jj
+type: N9QIODevice7readAllEv                   	 character: a10deallocateEPS_jj 
+type: e7readAllEv                   	 character: ateEPS_jj           
+type: v                   	 character: w_ZN11QFileDevice5closeEv
+type: QListData11detach_growEPii                   	 character: leDevice5closeEv    
+type: 1detach_growEPii                   	 character: loseEv              
+type: owEPii                   	 character: _ZN11QFileDevice5flushEv
+type: Ø_ZN9QListData11shared_nullE                   	 character: Device5flushEv      
+type: tData11shared_nullE                   	 character: shEv                
+type: red_nullE                   	 character: N11QMetaObject10ConnectionD1Ev
+type:                    	 character: ject10ConnectionD1Ev
+type: istData6appendEv                   	 character: ectionD1Ev          
+type: pendEv                   	 character:                     
+type: ß_ZN9QListData6detachEi                   	 character: MetaObject18connectSlotsByNameEP7QObject
+type: tData6detachEi                   	 character: 18connectSlotsByNameEP7QObject
+type: chEi                   	 character: lotsByNameEP7QObject
+type: _ZN9QListData7disposeEPNS_4DataE                   	 character: EP7QObject          
+type: ata7disposeEPNS_4DataE                   	 character:                     
+type: eEPNS_4DataE                   	 character: 1QMetaObject8activateEP7QObjectPKS_iPPv
+type: aE                   	 character: ct8activateEP7QObjectPKS_iPPv
+type: 11QMetaObject2trEPKcS1_i                   	 character: eEP7QObjectPKS_iPPv 
+type: ect2trEPKcS1_i                   	 character: tPKS_iPPv           
+type: S1_i                   	 character:                     

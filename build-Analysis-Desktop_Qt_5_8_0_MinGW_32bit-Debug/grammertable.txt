@@ -1,0 +1,9 @@
+  F->id
+  T->FT1 
+  F->int10
+  T->FT1 
+  E1->+T 
+  E->TE1 
+  F->(E)
+  T->FT1 
+  E->TE1 
