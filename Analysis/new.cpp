@@ -360,6 +360,7 @@ char numberprocess(char ch){               //数字处理程序
             goto u;
         }
         if (isalnum(ch) == 0 && ch != ';') {
+            if(ch == ' ')//这里加一个0后面跟着空格的判断 
             while (isspace(ch) == 0 && ch != ';') {
                 num[++i] = ch;
                 ch = fgetc(fp);
