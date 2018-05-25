@@ -87,6 +87,7 @@ void dialog::on_pushButton_2_clicked()
     QFile tet("error.txt");
     tet.open(QFile::WriteOnly|QFile::Truncate);
     tet.close();
+    temp=1;
     if( ui->textEdit->document()->isEmpty())
             {
                 QMessageBox::warning(this, tr("警告信息"), tr("输入为空！    请重新输入"));
@@ -360,6 +361,7 @@ char numberprocess(char ch){               //数字处理程序
             goto u;
         }
         if (isalnum(ch) == 0 && ch != ';') {
+            if(ch==' ')
             while (isspace(ch) == 0 && ch != ';') {
                 num[++i] = ch;
                 ch = fgetc(fp);
@@ -409,7 +411,7 @@ char numberprocess(char ch){               //数字处理程序
             }
             printf("INT16,%d\n",Value16);	//!!!16进制改成直接输出十进制
             INT16:strcpy(ech[j],"int16");
-            strcpy(echattr[j],num);
+            strcpy(echattr[j],itoa(Value16,num,10));
             j++;
             //len=strlen(num);
             //printf("   Transform to INT10 is:%d\n",HtoD(num,len));
@@ -453,7 +455,7 @@ char numberprocess(char ch){               //数字处理程序
             }
             printf("INT8,%d\n",Value8);
             INT8:strcpy(ech[j],"int8");
-            strcpy(echattr[j],num);
+            strcpy(echattr[j],itoa(Value8,num,10));
             j++;
             }
         }
@@ -580,9 +582,9 @@ int S()									//语义分析
             {
                 if (int(S1begin[1]) == (int(Ctrue[1]-1))) {
                     printf("   goto %s", S1begin);
+                    printf("\n   goto %s", Cfalse);
                     ofstream outfile1("3address.txt",ios::app);
                     outfile1<<"   goto "<<S1begin<<endl;
-                    printf("\n   goto %s", Cfalse);
                     outfile1<<"   goto "<<Cfalse<<endl;
                     ofstream outfile("grammertable.txt", ios::app);
                     outfile << "  S->id=E " << endl;
@@ -680,7 +682,7 @@ int SS()                                  //SS
         strcpy(Ctrue, Snext);
 
         if (strcmp(ech[now + 1], "") != 0){
-            //printf("\n%s:\n", Snext);
+            printf("\n%s:\n", Snext);
             sss= S();
             if(sss==1)
             {
@@ -1122,11 +1124,6 @@ int F()                                        //F
     }
 }
 
-QString change(char *number){
-    string sd=number;
-    QString st=str2qstr(sd);
-    return st;
-}
 
 
 
