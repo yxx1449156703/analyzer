@@ -1,20 +1,26 @@
-:
-   t2=a3+15
-   if t2>0xa goto L3 
+L1:
+   t1=a3+15
+   if t1>10 goto L2 
+   goto L0
+L2:
+   if x2=7 goto L3 
    goto L1
 L3:
-   if x2=07 goto L4 
+   if y<z goto L4 
    goto L1
 L4:
-   if y<z goto L5 
+   t2=x*y
+   t3=t2/z
+   y=t3
+   goto L3
    goto L1
-L5:
-   t3=x*y
-   t4=t3/z
-   y=t4
-   goto L4
+   t4=z/x
+   t5=t4/y
+   y=t5
+   goto L3
    goto L1
-   t5=b*c
-   t6=t5+d
-   c=t6
+L0:
+   t6=b*c
+   t7=t6+d
+   c=t7
 L0:

@@ -37,6 +37,14 @@
   S->id=E 
   F->id
   F->id
+  F->id
+  T1->/F 
+  T1->/F 
+  T->FT1 
+  E->TE1 
+  S->id=E 
+  F->id
+  F->id
   T->FT1 
   F->id
   T->FT1 

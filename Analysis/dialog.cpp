@@ -88,6 +88,7 @@ void dialog::on_pushButton_2_clicked()
     tet.open(QFile::WriteOnly|QFile::Truncate);
     tet.close();
     temp=1;
+    label=0;
     if( ui->textEdit->document()->isEmpty())
             {
                 QMessageBox::warning(this, tr("警告信息"), tr("输入为空！    请重新输入"));
@@ -680,9 +681,10 @@ int SS()                                  //SS
         now++;
         strcpy(Sbegin, Cfalse);
         strcpy(Ctrue, Snext);
-
         if (strcmp(ech[now + 1], "") != 0){
             printf("\n%s:\n", Snext);
+            ofstream outfile("3address.txt",ios::app);
+            outfile<<Snext<<":"<<endl;
             sss= S();
             if(sss==1)
             {
