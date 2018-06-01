@@ -1,0 +1,5 @@
+while (a3+15)>0xaz do 
+if x2 = 0B then 
+while y<z do 
+y = x * y / z; 
+c=b*c+d;

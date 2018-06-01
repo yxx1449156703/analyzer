@@ -1,0 +1,11 @@
+  S->while C do SS
+  C->EC1 
+  E->TE1 
+  T->FT1 
+  F->(E)
+  E->TE1 
+  T->FT1 
+  F->id
+  E1->+T 
+  T->FT1 
+  F->int10

@@ -1,0 +1,51 @@
+  S->while C do SS
+  C->EC1 
+  E->TE1 
+  T->FT1 
+  F->(E)
+  E->TE1 
+  T->FT1 
+  F->id
+  E1->+T 
+  T->FT1 
+  F->int10
+  C1-> >E 
+  E->TE1 
+  T->FT1 
+  F->int16
+  S->if C then S
+  C->EC1 
+  E->TE1 
+  T->FT1 
+  F->id
+  C1->=E 
+  E->TE1 
+  T->FT1 
+  F->int8
+  S->while C do SS
+  C->EC1 
+  E->TE1 
+  T->FT1 
+  F->id
+  C1-><E 
+  E->TE1 
+  T->FT1 
+  F->id
+  S->id=E 
+  E->TE1 
+  T->FT1 
+  F->id
+  T1->*F 
+  F->id
+  T1->/F 
+  F->id
+  S->SS 
+  S->id=E 
+  E->TE1 
+  T->FT1 
+  F->id
+  T1->*F 
+  F->id
+  E1->+T 
+  T->FT1 
+  F->id

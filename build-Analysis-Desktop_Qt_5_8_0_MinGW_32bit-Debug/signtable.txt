@@ -1,1049 +1,0 @@
-type: while                   	 character: while               
-type: (                   	 character: (                   
-type: id                   	 character: a3                  
-type: +                   	 character: +                   
-type: int10                   	 character: 15                  
-type: )                   	 character: )                   
-type: >                   	 character: >                   
-type: int16                   	 character: 10                  
-type: do                   	 character: do                  
-type: if                   	 character: if                  
-type: id                   	 character: x2                  
-type: =                   	 character: =                   
-type: int8                   	 character: 7                   
-type: then                   	 character: then                
-type: while                   	 character: while               
-type: id                   	 character: y                   
-type: <                   	 character: <                   
-type: id                   	 character: z                   
-type: do                   	 character: do                  
-type: id                   	 character: y                   
-type: =                   	 character: =                   
-type: id                   	 character: x                   
-type: *                   	 character: *                   
-type: id                   	 character: y                   
-type: /                   	 character: /                   
-type: id                   	 character: z                   
-type: else                   	 character: else                
-type: id                   	 character: y                   
-type: =                   	 character: =                   
-type: id                   	 character: z                   
-type: /                   	 character: /                   
-type: id                   	 character: x                   
-type: /                   	 character: /                   
-type: id                   	 character: y                   
-type: ;                   	 character: ;                   
-type: id                   	 character: c                   
-type: =                   	 character: =                   
-type: id                   	 character: b                   
-type: *                   	 character: *                   
-type: id                   	 character: c                   
-type: +                   	 character: +                   
-type: id                   	 character: d                   
-type: ;                   	 character: ;                   
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character: d                   
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character: y                   
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character: L0                  
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character: L3                  
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type: b                   	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type: L1                   	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                    
-type:                    	 character:                     
-type: 7                   	 character:                    
-type:                    	 character:                     
-type:                    	 character:                    
-type:                    	 character: ÿÿ                  
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type: …                   	 character:                     
-type:                    	 character:                     
-type: ÿÿÿÿÿÿ                   	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character: @                   
-type:                    	 character: ÿÿÿÿ                
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type: ¤                   	 character:                     
-type: ÿÿÿÿÿÿÿÿ                   	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character:                    
-type:                    	 character:                     
-type:                    	 character:                    
-type:                    	 character:                     
-type:                    	 character:                    
-type:                    	 character:                     
-type:                    	 character:                    
-type:                    	 character:                     
-type:                    	 character:                    
-type:                    	 character:                     
-type:                    	 character:                    
-type:                    	 character:                     
-type:                    	 character:                    
-type:                    	 character:                     
-type:                    	 character:                    
-type:                    	 character:                     
-type:                    	 character:                     
-type:                    	 character: ´I                 
-type:                    	 character:                    
-type:                    	 character: hJ                 
-type:                    	 character:                    
-type:                    	 character: K                 
-type:                    	 character:                    
-type:                    	 character: ÄK                 
-type:                    	 character:                    
-type:                    	 character: ˜L                 
-type:                    	 character:                    
-type:                    	 character: €M                 
-type:                    	 character:                    
-type:                    	 character:  N                 
-type:                    	 character:                    
-type:                    	 character: ÈN                 
-type:                    	 character:                    
-type:                    	 character: LO                 
-type:                    	 character:                    
-type:                    	 character: P                 
-type:                    	 character:                    
-type:                    	 character: ¼P                 
-type:                    	 character:                    
-type:                    	 character: dQ                 
-type:                    	 character:                    
-type:                    	 character: €R                 
-type:                    	 character:                    
-type:                    	 character: hS                 
-type:                    	 character:                    
-type:                    	 character: \T                 
-type:                    	 character:                    
-type:                    	 character: üT                 
-type:                    	 character:                    
-type:                    	 character: ÈU                 
-type:                    	 character:                    
-type:                    	 character: ¬V                 
-type:                    	 character:                    
-type:                    	 character: 0W                 
-type:                    	 character:                    
-type:                    	 character: ÔW                 
-type:                    	 character:                    
-type:                    	 character: X                 
-type:                    	 character:                    
-type:                    	 character: hY                 
-type:                    	 character:                    
-type:                    	 character: @Z                 
-type:                    	 character:                    
-type:                    	 character: 0[                 
-type:                    	 character:                    
-type:                    	 character: \                 
-type:                    	 character:                    
-type:                    	 character: ¼\                 
-type:                    	 character:                    
-type:                    	 character: Œ]                 
-type:                    	 character:                    
-type:                    	 character: ,^                 
-type:                    	 character:                    
-type:                    	 character: Ô^                 
-type:                    	 character:                    
-type:                    	 character: ˜_                 
-type:                    	 character:                    
-type:                    	 character: P`                 
-type:                    	 character:                    
-type:                    	 character: a                 
-type:                    	 character:                     
-type:                    	 character:  a                 
-type:                    	 character:                    
-type:                    	 character: Üa                 
-type:                    	 character:                    
-type:                    	 character: @b                 
-type:                    	 character:                    
-type:                    	 character: ¤b                 
-type:                    	 character:                    
-type:                    	 character: c                 
-type:                    	 character:                    
-type:                    	 character: lc                 
-type:                    	 character:                    
-type:                    	 character: Îc                 
-type:                    	 character:                    
-type:                    	 character: "d                 
-type:                    	 character:                    
-type:                    	 character: ld                 
-type:                    	 character:                    
-type:                    	 character: ´d                 
-type:                    	 character:                    
-type:                    	 character: æd                 
-type:                    	 character:                    
-type:                    	 character: e                 
-type:                    	 character:                    
-type:                    	 character: <e                 
-type:                    	 character:                    
-type:                    	 character: he                 
-type:                    	 character:                    
-type:                    	 character: še                 
-type:                    	 character:                    
-type:                    	 character: Òe                 
-type:                    	 character:                    
-type:                    	 character: f                 
-type:                    	 character:                    
-type:                    	 character: :f                 
-type:                    	 character:                    
-type:                    	 character: nf                 
-type:                    	 character:                    
-type: œI                   	 character: Ôf                 
-type:                    	 character:                    
-type: 4J                   	 character: lg                 
-type:                    	 character:                    
-type: ôJ                   	 character: \h                 
-type:                    	 character:                    
-type: ´K                   	 character: hi                 
-type:                    	 character:                    
-type: hL                   	 character: ¼i                 
-type:                    	 character:                    
-type: TM                   	 character: j&°k’¶˜köÉ™kJ¤¥k6¢¥kˆ‹°kNW°k–b°krµ¦k´¦¦k¨«¦k„è¦küå¦k”ô­kì“¥kFz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type:                    	 character: ™kJ¤¥k6¢¥kˆ‹°kNW°k–b°krµ¦k´¦¦k¨«¦k„è¦küå¦k”ô­kì“¥kFz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type:                    	 character: ˆ‹°kNW°k–b°krµ¦k´¦¦k¨«¦k„è¦küå¦k”ô­kì“¥kFz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type:                    	 character: °krµ¦k´¦¦k¨«¦k„è¦küå¦k”ô­kì“¥kFz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type: œN                   	 character: ¨«¦k„è¦küå¦k”ô­kì“¥kFz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type:                    	 character: ¦k”ô­kì“¥kFz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type: (O                   	 character: Fz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type:                    	 character: °k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type: ìO                   	 character: Ð°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type:                    	 character: °k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type:  P                   	 character: ^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type:                    	 character: ŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type:                    	 character: ÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type:                    	 character: kÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type: DR                   	 character: L$®k\ò¯k®
-°kŠ©Ÿkº(¦k
-type:                    	 character: °kŠ©Ÿkº(¦k          
-type: 8S                   	 character:                     
-type:                    	 character: &¾•&:s&Êu&f #ö#,*ø-*–’&4˜&àu&´™#¼€#21*
-type: T                   	 character: Êu&f #ö#,*ø-*–’&4˜&àu&´™#¼€#21*
-type:                    	 character: #,*ø-*–’&4˜&àu&´™#¼€#21*
-type: ÐT                   	 character: –’&4˜&àu&´™#¼€#21*
-type:                    	 character: &´™#¼€#21*      
-type: ˜U                   	 character: 21*                
-type:                    	 character: a8h¼=]P7]_]Ê^]œ9]BW]U]\:]|’bO]4]Œ4]†i(©`ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: tV                   	 character: P7]_]Ê^]œ9]BW]U]\:]|’bO]4]Œ4]†i(©`ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: ]œ9]BW]U]\:]|’bO]4]Œ4]†i(©`ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: W                   	 character: U]\:]|’bO]4]Œ4]†i(©`ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: ’bO]4]Œ4]†i(©`ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: ÀW                   	 character: Œ4]†i(©`ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: `ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: tX                   	 character: dvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: [òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: <Y                   	 character: H°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: g˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: Z                   	 character: ¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: “ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: [                   	 character: Ö¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: g Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: ô[                   	 character: ¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: œ\                   	 character: Œ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: \]                   	 character: ¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: ^                   	 character: xŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: JjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: ¬^                   	 character: ºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: JÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: \_                   	 character: ¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: 0`                   	 character: DpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: J°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: è`                   	 character: ¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: `ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: „a                   	 character: œ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: ¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: JÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: ,b                   	 character: ¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type: b                   	 character: ToJÃbˆ¶bËîJšîJâJxïJCíJ2I
-type:                    	 character: bËîJšîJâJxïJCíJ2I
-type: òb                   	 character: âJxïJCíJ2I    
-type:                    	 character: J2I              
-type: Vc                   	 character: ð6“                 
-type:                    	 character: ’                   
-type: Àc                   	 character: Àw’                 
-type:                    	 character: ÉwðîÇwpIuuðIuu      
-type:                    	 character: ðIuu                
-type:                    	 character: zu`…uu@MuuàMuu      
-type: \d                   	 character: àMuu                
-type:                    	 character: uu`7yu`Ruu0êzu°žÉw@VuupëÇw°WuupXuupYuuÐZuuPduuduueuu€euu
-type: ªd                   	 character: 0êzu°žÉw@VuupëÇw°WuupXuupYuuÐZuuPduuduueuu€euu
-type:                    	 character: uupëÇw°WuupXuupYuuÐZuuPduuduueuu€euu
-type: Þd                   	 character: pXuupYuuÐZuuPduuduueuu€euu
-type:                    	 character: uuPduuduueuu€euu  
-type: 
-e                   	 character: euu€euu            
-type:                    	 character: uu`guu guu@huu      
-type: 4e                   	 character: @huu                
-type:                    	 character: kt°WitŒ`qt rktôSqt°rkt}otœ[qt°^lt0_ltÐ\it\qt€‘jtÀalt
-type: `e                   	 character:  rktôSqt°rkt}otœ[qt°^lt0_ltÐ\it\qt€‘jtÀalt
-type:                    	 character: kt}otœ[qt°^lt0_ltÐ\it\qt€‘jtÀalt
-type: e                   	 character: °^lt0_ltÐ\it\qt€‘jtÀalt
-type:                    	 character: it\qt€‘jtÀalt      
-type: Èe                   	 character: Àalt                
-type:                    	 character: itPklt€kkt          
-type: üe                   	 character:                     
-type:                    	 character: ht                  
-type: 0f                   	 character: P‚mtà:mtp5mt€ˆmtPpjt€–mtP‚mtð·kt úht`úht`ûht üht`üht€¹kt ühtrjt‰nt
-type:                    	 character: mt€ˆmtPpjt€–mtP‚mtð·kt úht`úht`ûht üht`üht€¹kt ühtrjt‰nt
-type: bf                   	 character: €–mtP‚mtð·kt úht`úht`ûht üht`üht€¹kt ühtrjt‰nt
-type:                    	 character: kt úht`úht`ûht üht`üht€¹kt ühtrjt‰nt
-type: f                   	 character: `ûht üht`üht€¹kt ühtrjt‰nt
-type:                    	 character: ht€¹kt ühtrjt‰nt  
-type: (g                   	 character: rjt‰nt            
-type:                    	 character: jtaktàoktdnt€’nt@“nt
-type: h                   	 character: dnt€’nt@“nt        
-type:                    	 character: nt                  
-type: <i                   	 character: ”nt`—nt@#ità"it%it¤mt@[mt` nt
-type:                    	 character: ità"it%it¤mt@[mt` nt
-type: ´i                   	 character: ¤mt@[mt` nt        
-type:                    	 character: nt                  
-type:                    	 character:                     
-type: ˜köÉ™kJ¤¥k6¢¥kˆ‹°kNW°k–b°krµ¦k´¦¦k¨«¦k„è¦küå¦k”ô­kì“¥kFz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character: k`ôkpl pl°npnoð´p ¼pÐqpJq`Kq LqÜs„s°sà˜q™q@™q€™qÀ›qÀq0¢q«q
-type: 6¢¥kˆ‹°kNW°k–b°krµ¦k´¦¦k¨«¦k„è¦küå¦k”ô­kì“¥kFz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character:  pl°npnoð´p ¼pÐqpJq`Kq LqÜs„s°sà˜q™q@™q€™qÀ›qÀq0¢q«q
-type: °k–b°krµ¦k´¦¦k¨«¦k„è¦küå¦k”ô­kì“¥kFz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character: noð´p ¼pÐqpJq`Kq LqÜs„s°sà˜q™q@™q€™qÀ›qÀq0¢q«q
-type: ´¦¦k¨«¦k„è¦küå¦k”ô­kì“¥kFz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character:  ¼pÐqpJq`Kq LqÜs„s°sà˜q™q@™q€™qÀ›qÀq0¢q«q
-type: ¦küå¦k”ô­kì“¥kFz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character: q`Kq LqÜs„s°sà˜q™q@™q€™qÀ›qÀq0¢q«q
-type: ì“¥kFz¥kš{¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character: Üs„s°sà˜q™q@™q€™qÀ›qÀq0¢q«q
-type: ¥k´°k¦°kÂ°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character: sà˜q™q@™q€™qÀ›qÀq0¢q«q
-type: Â°kÐ°k¨O°kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character: @™q€™qÀ›qÀq0¢q«q
-type: °kø
-°k¶O°k4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character: qÀq0¢q«q      
-type: 4°k^xŸk vŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character: «q                
-type: ŸkžxŸkÔ±k‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character: _Z13qFlagLocationPKc
-type: ‚¦kÐkìÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character: ocationPKc          
-type: ÍkkÖk¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character:                     
-type: ¼kL$®k\ò¯k®
-°kŠ©Ÿkº(¦k                   	 character: assertPKcS0_i       
-type: ¯k®
-°kŠ©Ÿkº(¦k                   	 character: 0_i                 
-type: º(¦k                   	 character: N10QArrayData10deallocateEPS_jj
-type: &X§&¾•&:s&Êu&f #ö#,*ø-*–’&4˜&àu&´™#¼€#21*                   	 character: ata10deallocateEPS_jj
-type: :s&Êu&f #ö#,*ø-*–’&4˜&àu&´™#¼€#21*                   	 character: ocateEPS_jj         
-type: #ö#,*ø-*–’&4˜&àu&´™#¼€#21*                   	 character: j                   
-type: ø-*–’&4˜&àu&´™#¼€#21*                   	 character: FileDevice5closeEv  
-type: &àu&´™#¼€#21*                   	 character: 5closeEv            
-type: ¼€#21*                   	 character: x_ZN11QFileDevice5flushEv
-type:                    	 character: leDevice5flushEv    
-type: ¼=]P7]_]Ê^]œ9]BW]U]\:]|’bO]4]Œ4]†i(©`ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: lushEv              
-type: ]Ê^]œ9]BW]U]\:]|’bO]4]Œ4]†i(©`ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: _ZN11QMetaObject10ConnectionD1Ev
-type: BW]U]\:]|’bO]4]Œ4]†i(©`ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: Object10ConnectionD1Ev
-type: ]|’bO]4]Œ4]†i(©`ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: nnectionD1Ev        
-type: 4]Œ4]†i(©`ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: Ev                  
-type: i(©`ZÊF$cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: 1QMetaObject18connectSlotsByNameEP7QObject
-type: $cFdvF>Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: ct18connectSlotsByNameEP7QObject
-type: Wžò[òð[Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: tSlotsByNameEP7QObject
-type: Ž¯gH°gÄªgâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: meEP7QObject        
-type: gâÌg˜ÌgpÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: ct                  
-type: pÈg¬­gîªgèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: N11QMetaObject8activateEP7QObjectPKS_iPPv
-type: gèô“ä©g|§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: ject8activateEP7QObjectPKS_iPPv
-type: |§gÖ¦gpªgšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: ateEP7QObjectPKS_iPPv
-type: gšªg Ågxµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: ectPKS_iPPv         
-type: xµg¢g,£gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: v                   
-type: gÄ‹Jp‹J~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: 1QTextStream7readAllEv
-type: ~‹JŒ‹J.\Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: am7readAllEv        
-type: Jê‰J¶‹J¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: Ev                  
-type: ¾†J¾ŽJ¨‹Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: N11QTextStreamC1EP9QIODevice
-type: Jt.JŠJ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: reamC1EP9QIODevice  
-type: ˜ŠJxŽJàŠJŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: IODevice            
-type: JŠJjŽJ†ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character:                     
-type: †ŽJºˆJÆJ€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: TextStreamD1Ev      
-type: J€ŠJÒˆJô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: D1Ev                
-type: ô‹J¦‰JºJ¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: N11QTextStreamlsEPKc
-type: J¾‰JüJJÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: reamlsEPKc          
-type: ÂiJDpJ -J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character:                     
-type: J”ŽJ°ŽJš‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: 1QTextStreamlsERK7QString
-type: š‹J¢ŽJò0IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: amlsERK7QString     
-type: IrM`ü<cÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: tring               
-type: ÖÂbœ»bøïbj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: N16QCoreApplication9translateEPKcS1_S1_i
-type: bj¯bÄgœÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: plication9translateEPKcS1_S1_i
-type: œÂg¢îJLíJ*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: translateEPKcS1_S1_i
-type: J*âJÐîJÚ•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: PKcS1_S1_i          
-type: Ú•J¨oJŒJD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character:                     
-type: JD–JîèJü1IToJÃbˆ¶bËîJšîJâJxïJCíJ2I                   	 character: QFile4openE6QFlagsIN9QIODevice12OpenModeFlagEE
